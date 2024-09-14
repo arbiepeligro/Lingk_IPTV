@@ -23,8 +23,8 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1,HBO HD
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
-#EXTINF:-1,Paramount Channel
-http://170.254.18.106/PARAMOUNT/index.m3u8
+#EXTINF:-1 tvg-name="paramount.network.usa.eastern.us" tvg-id="paramount.network.usa.eastern.us" group-title="Movies" tvg-logo="https://media.tv4.live/paramount.network.usa.eastern.us.png",Paramount Network (East)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/paramount.network.usa.eastern.us.m3u8
 #EXTINF:-1,MYX
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1,MTV Biggest Pop
