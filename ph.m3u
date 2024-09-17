@@ -3,6 +3,8 @@
 https://tv-noyzkie.serv00.net/streams/A2Z.m3u8
 #EXTINF:-1,TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF:-1,One Sports HD
+https://bit.ly/4dIklUF
 #EXTINF:-1,GMA
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF:-1,TeleRadyo Serbisyo
@@ -13,6 +15,12 @@ https://tinyurl.com/RadyoDZBB
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 #EXTINF:-1,ANC 
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1,One News
+https://bit.ly/3V39Bce
+#EXTINF:-1,SARI-SARI Channel
+https://tinyurl.com/5bcc4nrw
+#EXTINF:-1,PBO
+https://bit.ly/44LFPvQ
 #EXTINF:-1,CINEMO!
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1,Cinema One
